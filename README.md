@@ -1,0 +1,1 @@
+# soft_render_wired_model
